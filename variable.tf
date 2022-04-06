@@ -1,2 +1,2 @@
-variable "ENVIRONMRNT"{}
-variable "PROJECT"{}
+variable "ENVIRONMRNT" {}
+variable "PROJECT" {}
