@@ -1,2 +1,6 @@
-variable "ENVIRONMRNT" {}
-variable "PROJECT" {}
+variable "ENVIRONMRNT" {
+    default = "prod"
+}
+variable "PROJECT" {
+    default = "vivi"
+}
