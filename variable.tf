@@ -1,0 +1,2 @@
+variable "ENVIRONMRNT"{}
+variable "PROJECT"{}
