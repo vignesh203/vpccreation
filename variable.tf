@@ -1,4 +1,4 @@
-variable "ENVIRONMRNT" {
+variable "ENVIRONMENT" {
     default = "prod"
 }
 variable "PROJECT" {
